@@ -22,6 +22,10 @@
             border-collapse: collapse;
             border-spacing: 0;
         }
+        #foot-center {
+            text-align: center;
+            padding-bottom: 2rem;
+        }
         body {
         background-color: rgb(116, 116, 134);
             color: #efefef;
@@ -33,7 +37,7 @@
         }
         .wrapper {
             max-width: 570px;
-            margin: 100px auto 75px auto;
+            margin: 100px 360px 75px auto;
             padding: 5px;
         }
         h1 {
